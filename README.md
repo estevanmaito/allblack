@@ -15,7 +15,7 @@ CSS
 
 ![screenshot-css](screenshot-css.png)
 
-You got it...
+You got it... It's black background, white text, gray comments.
 
 ## Installation
 
@@ -27,17 +27,7 @@ You got it...
 
 ## Activation
 
-* Open your settings (`Sublime Text` → `Preferences` → `Settings`)
-* Replace the `theme` key with `Sienna.sublime-theme`:
-
-```diff
-{
-...
--    "theme": "YourPreviousTheme.sublime-theme",
-+    "theme": "All Black.sublime-theme",
-...
-}
-```
+* `Sublime Text` → `Preferences` → `Color Scheme` → `User` → `Color Highlighter` → `themes` → `All Black`
 
 Then, restart Sublime Text.
 
