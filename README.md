@@ -27,7 +27,7 @@ You got it... It's black background, white text, gray comments.
 
 ## Activation
 
-* `Sublime Text` → `Preferences` → `Color Scheme` → `User` → `Color Highlighter` → `themes` → `All Black`
+* `Sublime Text` → `Preferences` → `Color Scheme` → `All Black`
 
 Then, restart Sublime Text.
 
